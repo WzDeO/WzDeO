@@ -11,15 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=WzDeO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WzDeO&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WzDeO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 🏆Achievements
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ffd4fe606a654611318c8647c556b25973b0f88e816800ef57fc0612ac3f014/68747470733a2f2f6173736574732e7361666373702e636c6f75642f70726f6772616d6d696e672d6c616e6775616765732f707974686f6e54776f53746172732e737667"><img src="https://camo.githubusercontent.com/5ffd4fe606a654611318c8647c556b25973b0f88e816800ef57fc0612ac3f014/68747470733a2f2f6173736574732e7361666373702e636c6f75642f70726f6772616d6d696e672d6c616e6775616765732f707974686f6e54776f53746172732e737667" height="80" width="80" alt="python achievements" data-canonical-src="https://assets.safcsp.cloud/programming-languages/pythonTwoStars.svg" style="max-width: 100%;"></a>
-
-<img src="https://camo.githubusercontent.com/887cfb70a6eba6208a2d271c4d92736fd7d3b494f2acbd899afc54f53a330e85/68747470733a2f2f6173736574732e7361666373702e636c6f75642f70726f6772616d6d696e672d6c616e6775616765732f6a73546872656553746172732e737667" height="100" width="100" alt="javascript achievements" data-canonical-src="https://assets.safcsp.cloud/programming-languages/jsThreeStars.svg" style="max-width: 100%;">
-
-
----
-[![](https://visitcount.itsvg.in/api?id=WzDeO&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
