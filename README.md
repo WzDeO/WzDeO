@@ -13,6 +13,3 @@ cybersecurity — specifically security operations (SOC) and threat detection.
 **Languages:** Python, Java
 **Security:** Network security, log analysis, Linux security
 **Tools:** Linux (Arch, Kali), Nmap, Wireshark, Git
-
-## Connect with me
-Linkedin: linkedin.com/in/hattan-almajnouni-14091243b) · HackTheBox: https://profile.hackthebox.com/profile/01a0fd47-8d40-7124-8830-cab69c5b73f8?utm_medium=copy_url
