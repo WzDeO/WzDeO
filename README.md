@@ -14,11 +14,5 @@ cybersecurity — specifically security operations (SOC) and threat detection.
 **Security:** Network security, log analysis, Linux security
 **Tools:** Linux (Arch, Kali), Nmap, Wireshark, Git
 
-##  Featured projects
-| Project | Description |
-|---|---|
-| [SSH Brute-Force Detector](link) | Parses SSH logs, flags IPs with repeated failed logins, generates incident summaries *(in progress)* |
-| [Security Write-ups](link) | Notes and write-ups from labs and challenges |
-
 ## Connect with me
 Linkedin: linkedin.com/in/hattan-almajnouni-14091243b) · HackTheBox: https://profile.hackthebox.com/profile/01a0fd47-8d40-7124-8830-cab69c5b73f8?utm_medium=copy_url
