@@ -9,4 +9,3 @@ cybersecurity — specifically security operations (SOC) and threat detection.
 
 ##  Skills
 **Languages:** Python, Java
-**Security:** Network security, log analysis, Linux security
